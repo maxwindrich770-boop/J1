@@ -33,11 +33,11 @@ J1 works without any keys (falls back to local Ollama), but cloud keys make it s
 **iCloud Mail & Calendar (optional)**
 J1 can read your unread iCloud emails and upcoming calendar events.
 Use an [App-Specific Password](https://appleid.apple.com) — never your Apple ID password.
-Go to appleid.apple.com → Security → App-Specific Passwords → click + → name it J1.
+Go to appleid.apple.com → Security → App-Specific Passwords → click "+" → name it "J1".
 
 ### 4. Configure
 
-On first launch, J1 walks you through the setup. You can also edit the config file directly at .
+On first launch, J1 walks you through the setup. You can also edit the config file directly at `~/.j1/.env`.
 
 ## Credits
 
