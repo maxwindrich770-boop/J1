@@ -1,5 +1,7 @@
 # J1
 
+![J1 Banner](assets/banner.png)
+
 A local AI assistant for Mac.
 
 ## Requirements
