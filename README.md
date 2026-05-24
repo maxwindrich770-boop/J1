@@ -39,17 +39,14 @@ Go to appleid.apple.com → Security → App-Specific Passwords → click "+" �
 
 ### 4. Configure
 
-On first launch, J1 walks you through the setup. You can also edit the config file directly at `~/.j1/.env`.
+Open J1 → Settings → Configuration. All options (model, language, voice, API keys, iCloud, Obsidian vault, and more) are editable in the app — no manual file editing required.
 
 ## Upcoming
 
-### 1. Settings & Setup Wizard
-All configuration options accessible through the app — no manual `.env` editing required. Setup wizard on first launch and a settings screen will cover model selection, language & voice, API keys, iCloud, Obsidian vault, and more.
-
-### 2. Google Integration
+### 1. Google Integration
 Support for Google Calendar, Gmail, Google Drive, Google Tasks, and Google Contacts — the same features currently available for iCloud users.
 
-### 3. Windows Support
+### 2. Windows Support
 Native Windows compatibility. Main blocker is the macOS-only `afplay` audio player.
 
 ## Credits
