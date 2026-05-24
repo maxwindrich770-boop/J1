@@ -37,7 +37,7 @@ J1 works without any keys (falls back to local Ollama), but cloud keys make it s
 | **OpenAI** | Pay-as-you-go | [platform.openai.com/api-keys](https://platform.openai.com/api-keys) → Create new secret key |
 | **Anthropic** | Pay-as-you-go | [console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys) → Create Key |
 | **OpenRouter** | Free credits on signup, 300+ models | [openrouter.ai/keys](https://openrouter.ai/keys) → Create Key |
-| **Kimi (Moonshot)** | Free tier | [platform.moonshot.cn](https://platform.moonshot.cn) → API Keys |
+| **Kimi (Moonshot)** | Pay-as-you-go | [platform.moonshot.cn](https://platform.moonshot.cn) → API Keys |
 | **Tavily** (web search) | 1,000 searches/month free | [tavily.com](https://tavily.com) → Dashboard → API Keys |
 
 All providers are optional — J1 falls back to the next available one automatically. Groq is the recommended starting point as it offers the fastest free tier.
