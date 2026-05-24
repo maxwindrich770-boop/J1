@@ -22,6 +22,10 @@ Download the DMG from [Releases](https://github.com/maxwindrich770-boop/J1/relea
 
 > **First launch blocked?** Right-click J1 in Applications → Open → Open anyway. This is a one-time step for unsigned apps.
 
+### 2.5 Connect Obsidian (optional)
+
+If you use [Obsidian](https://obsidian.md) for notes, J1 can search your vault and answer questions from it. No extra setup needed — just point J1 to your vault path in the next step.
+
 ### 3. Get your API keys
 
 J1 works without any keys (falls back to local Ollama), but cloud keys make it significantly faster and smarter.
